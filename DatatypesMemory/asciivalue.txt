@@ -1,0 +1,3 @@
+// Ascii Values
+Capital Case : A=>Z , starts from A => 65  & end on Z => 90
+Lower Case : a=>z, starts from a => 97 & end on z => 122

@@ -1,0 +1,90 @@
+// Operator and Its Types in CPP
+
+C++ Operators
+
+1. Arithmetic Operators
+Used to perform basic arithmetic operations.
+- + => Addition => a + b
+- - => Subtraction => a - b
+- * => Multiplication => a * b
+- / => Division => a / b
+- % => Modulo => a % b
+
+2. Relational Operators
+Used to compare two values.
+- == => Equal to => a == b
+- != => Not equal to => a != b
+- > => Greater than => a > b
+- < => Less than => a < b
+- >= => Greater than or equal to => a >= b
+- <= => Less than or equal to => a <= b
+
+3. Logical Operators
+Used to perform logical operations.
+- && => Logical AND => a && b
+- || => Logical OR => a || b
+- ! => Logical NOT => !a
+
+4. Bitwise Operators
+Used to perform bit-level operations.
+- & => Bitwise AND => a & b
+- | => Bitwise OR => a | b
+- ^ => Bitwise XOR => a ^ b
+- ~ => Bitwise NOT => ~a
+- << => Left Shift => a << 1
+- >> => Right Shift => a >> 1
+
+5. Assignment Operators
+Used to assign values to variables.
+- = => Assign => a = b
+- += => Add and assign => a += b
+- -= => Subtract and assign => a -= b
+- *= => Multiply and assign => a *= b
+- /= => Divide and assign => a /= b
+- %= => Modulo and assign => a %= b
+
+6. Increment and Decrement Operators
+Used to increase or decrease the value of a variable.
+- ++ => Increment => a++ or ++a
+- -- => Decrement => a-- or --a
+
+7. Conditional (Ternary) Operator
+Used to evaluate a condition and choose between two values.
+- ? : => Ternary operator => condition ? expr1 : expr2
+
+8. Typecast Operators
+Used to convert one data type to another.
+- (type) => Type casting => (int)a
+
+9. Comma Operator
+Used to separate expressions where multiple expressions are evaluated in a single statement.
+- , => Comma operator => a = (b = 5, b + 3)
+
+10. Pointer Operators
+Used to manipulate pointers.
+- * => Dereference operator => *ptr
+- & => Address-of operator => &a
+
+11. Sizeof Operator
+Used to determine the size of a data type or object.
+- sizeof => Size of an object or type => sizeof(int)
+
+12. Scope Resolution Operator
+Used to define the scope of a function or variable.
+- :: => Scope resolution => std::cout
+
+13. Member Access Operators
+Used to access members of a class or structure.
+- . => Dot operator => object.member
+- -> => Arrow operator => ptr->member
+
+14. New and Delete Operators
+Used for dynamic memory allocation and deallocation.
+- new => Allocates memory => ptr = new int;
+- delete => Deallocates memory => delete ptr;
+
+15. Exception Handling Operators
+Used for exception handling.
+- throw => Throw exception => throw exceptionObject;
+- try => Start a block to handle exceptions => try { /* code */ }
+- catch => Catch exceptions => catch (ExceptionType e) { /* code */ }

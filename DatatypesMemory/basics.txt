@@ -1,0 +1,6 @@
+// Basics Memory Idea of Datatypes :
+1. int => 4 bytes => 32 bits
+2. char => 1 bytes => 8 bits
+3. float => 4 bytes => 32 bits
+4. bool => 1 bytes => 8 bits
+5. double => 8 bytes => 64 bits
